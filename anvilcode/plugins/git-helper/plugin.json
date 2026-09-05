@@ -1,0 +1,5 @@
+{
+  "name": "git-helper",
+  "description": "Bundled example plugin: PR and changelog drafting commands",
+  "version": "1.0.0"
+}
