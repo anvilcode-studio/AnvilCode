@@ -1,4 +1,4 @@
-$$$ Read Me $$$
+$ Read Me $
 
 Anvil Code is a random vibe coded i decided to make free, opensource, safe, and easy to use.
 
